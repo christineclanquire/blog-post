@@ -2,6 +2,7 @@
 > Writer's Name: Jingyun Zhang         
 > Date: December 7, 2018
 
+![](R.jpg)
 
 ##INTRODUCTION##
 I am writing this blog post about the course outcome called info201 provided by Department of Infomatics ,University of Washington. This class basically introduce basic R language and data to programming beginners and even those who do not have any programming skills.
